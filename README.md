@@ -1,2 +1,0 @@
-# bluebook
-blue book
